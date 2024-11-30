@@ -116,7 +116,7 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 ## VI. **About the Developer**
 
-![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/09378f304b342a052cad61e3d88904c413e29771/images/Developer.jpg)
+![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/da43411a75d6204bee889167be92e13a6a9c78f5/images/Developer.jpg)
 
 Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress: Book Rental System**. As a beginner in Java programming, this project represents one of my first significant individual endeavors. Previously, I had only worked with programming languages like C++ and Python.  
 
