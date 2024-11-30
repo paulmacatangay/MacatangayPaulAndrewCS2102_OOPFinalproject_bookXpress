@@ -1,7 +1,24 @@
-![bookXpress Banner](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/60d598d329da3a9987cd378a5b62b4b12e922b0f/images/bookXpress%20Banner.jpg)
 # 📚 **bookXpress - Book Rental System**
 
+![bookXpress Banner](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/60d598d329da3a9987cd378a5b62b4b12e922b0f/images/bookXpress%20Banner.jpg)
+
+---
+
+## 📒 **Index**
+- **I. [Project Overview](#i-project-overview)**
+- **II. [Application of OOP Principles](#ii-application-of-oop-principles)**
+  - [Encapsulation](#-encapsulation)
+  - [Polymorphism](#-polymorphism)
+  - [Abstraction](#-abstraction)
+  - [Inheritance](#-inheritance)
+- **III. [Chosen Sustainable Development Goal (SDG)](#iii-chosen-sustainable-development-goal-sdg)**
+- **IV. [Integration of SDG into the Project](#integration-of-sdg-into-the-project)**
+- **V. [About the Developer](#v-about-the-developer)**
+
+---
+
 ## I. **Project Overview**
+
 ### **Project Description**  
 The **Book Rental System** is an interactive software application designed to manage the rental of books. It provides functionality for both **admin users** and **regular users** to interact with a library of books.  
 Admin users can manage the book catalog by adding new books, updating book availability, and adjusting rental prices. Regular users can create accounts, log in, browse available books, rent them, and manage their inventory of rented books.
@@ -34,7 +51,7 @@ This project leverages **object-oriented programming** principles, including **e
 
 ## II. **Application of OOP Principles**
 
-### **🔒 Encapsulation:**
+### **🔒 Encapsulation**
 
 **Definition:**  
 Encapsulation hides the internal state of objects and only exposes methods that allow controlled access to the data.
@@ -45,7 +62,7 @@ Encapsulation hides the internal state of objects and only exposes methods that 
 
 ---
 
-### **🔄 Polymorphism:**
+### **🔄 Polymorphism**
 
 **Definition:**  
 Polymorphism allows objects of different types to be treated as objects of a common super type. It allows one method to be used for different types.
@@ -55,7 +72,7 @@ Polymorphism allows objects of different types to be treated as objects of a com
 
 ---
 
-### **🔍 Abstraction:**
+### **🔍 Abstraction**
 
 **Definition:**  
 Abstraction involves hiding the complex implementation details and exposing only the necessary parts of the object.
@@ -65,7 +82,7 @@ Abstraction involves hiding the complex implementation details and exposing only
 
 ---
 
-### **🌳 Inheritance:**
+### **🌳 Inheritance**
 
 **Definition:**  
 Inheritance allows a class to inherit properties and methods from another class, promoting code reuse.
@@ -84,16 +101,27 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 ---
 
-### **Integration of SDG into the Project:**
+## IV. **Integration of SDG into the Project**
 
-#### **📚 Promoting Accessibility to Educational Resources:**
+#### **📚 Promoting Accessibility to Educational Resources**
 - By offering a rental service for books, users can access a wide range of educational materials without the high cost of purchasing them. This ensures that knowledge is accessible to all, regardless of financial constraints.
 
-#### **🔄 Encouraging Lifelong Learning:**
+#### **🔄 Encouraging Lifelong Learning**
 - The **points system** incentivizes users to rent more books and engage in continuous learning. As users earn points by renting books, they are motivated to continue their learning journey.
 
-#### **🌍 Digital Inclusivity:**
+#### **🌍 Digital Inclusivity**
 - The system provides an easy-to-use digital platform for renting books. Users can manage their accounts, track their rented books, and top-up their balances, making it a convenient option for people who might not have easy access to physical libraries.
 
-#### **🚀 Future Growth:**
+#### **🚀 Future Growth**
 - The platform can be expanded in the future to offer digital books (eBooks), integrating technology for broader access to resources. This would align more closely with SDG 4 by providing more flexible learning options for people globally.
+
+---
+
+## V. **About the Developer**
+
+![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/09378f304b342a052cad61e3d88904c413e29771/images/Developer.jpg)
+
+Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress: Book Rental System**. As a beginner in Java programming, this project represents one of my first significant individual endeavors. Previously, I had only worked with programming languages like C++ and Python.  
+Creating **bookXpress** was a learning journey that allowed me to explore the fundamentals of object-oriented programming and develop a functional system. This project holds a special place in my heart as it serves as a stepping stone in my programming career and will always be a fond memory of my early days in software development.
+
+---
