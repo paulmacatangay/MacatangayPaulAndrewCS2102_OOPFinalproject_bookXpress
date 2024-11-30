@@ -37,7 +37,7 @@ Admin users can manage the book catalog by adding new books, updating book avail
 - Create and manage user accounts with secure login.
 - Browse available books in the library.
 - Rent books and maintain an inventory of rented books.
-- Top-up account balance and earn points based on book rentals.
+- Top-up account balance.
 
 #### **📖 Book Management:**
 - Books are categorized as **Fiction** and **Non-Fiction**, each having additional specific attributes such as genre or subject.
@@ -102,9 +102,6 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 #### **📚 Promoting Accessibility to Educational Resources**
 - By offering a rental service for books, users can access a wide range of educational materials without the high cost of purchasing them. This ensures that knowledge is accessible to all, regardless of financial constraints.
-
-#### **🔄 Encouraging Lifelong Learning**
-- The **points system** incentivizes users to rent more books and engage in continuous learning. As users earn points by renting books, they are motivated to continue their learning journey.
 
 #### **🌍 Digital Inclusivity**
 - The system provides an easy-to-use digital platform for renting books. Users can manage their accounts, track their rented books, and top-up their balances, making it a convenient option for people who might not have easy access to physical libraries.
