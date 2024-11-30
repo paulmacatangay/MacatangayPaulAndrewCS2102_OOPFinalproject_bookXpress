@@ -1,3 +1,4 @@
+![bookXpress Banner](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/60d598d329da3a9987cd378a5b62b4b12e922b0f/images/bookXpress%20Banner.jpg)
 # 📚 **bookXpress - Book Rental System**
 
 ## I. **Project Overview**
