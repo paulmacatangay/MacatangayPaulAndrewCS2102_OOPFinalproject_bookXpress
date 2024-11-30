@@ -4,28 +4,29 @@
 
 ---
 
-## 📒 **Index**
-- **I. [Project Overview](#i-project-overview)**
-- **II. [Application of OOP Principles](#ii-application-of-oop-principles)**
-  - [Encapsulation](#-encapsulation)
-  - [Polymorphism](#-polymorphism)
-  - [Abstraction](#-abstraction)
-  - [Inheritance](#-inheritance)
-- **III. [Chosen Sustainable Development Goal (SDG)](#iii-chosen-sustainable-development-goal-sdg)**
-- **IV. [Integration of SDG into the Project](#iv-integration-of-sdg-into-the-project)**
-- **V. [About the Developer](#v-about-the-developer)**
-
----
-
 ## I. **Project Overview**
 
 ### **Project Description**  
 The **Book Rental System** is an interactive software application designed to manage the rental of books. It provides functionality for both **admin users** and **regular users** to interact with a library of books.  
+
 Admin users can manage the book catalog by adding new books, updating book availability, and adjusting rental prices. Regular users can create accounts, log in, browse available books, rent them, and manage their inventory of rented books.
 
 ---
 
-### **Key Features**
+## 📒 **Index**
+- **II. [Key Features](#ii-key-features)**
+- **III. [Application of OOP Principles](#iii-application-of-oop-principles)**
+  - [Encapsulation](#-encapsulation)
+  - [Polymorphism](#-polymorphism)
+  - [Abstraction](#-abstraction)
+  - [Inheritance](#-inheritance)
+- **IV. [Chosen Sustainable Development Goal (SDG)](#iv-chosen-sustainable-development-goal-sdg)**
+- **V. [Integration of SDG into the Project](#v-integration-of-sdg-into-the-project)**
+- **VI. [About the Developer](#vi-about-the-developer)**
+
+---
+
+## II. **Key Features**
 
 #### **🔧 Admin Functionality:**
 - Add, update, and remove books in the system.
@@ -45,11 +46,7 @@ Admin users can manage the book catalog by adding new books, updating book avail
 
 ---
 
-This project leverages **object-oriented programming** principles, including **encapsulation**, **inheritance**, **polymorphism**, and **abstraction**, to manage a structured and extensible system for book rental management.
-
----
-
-## II. **Application of OOP Principles**
+## III. **Application of OOP Principles**
 
 ### **🔒 Encapsulation**
 
@@ -92,7 +89,7 @@ Inheritance allows a class to inherit properties and methods from another class,
 
 ---
 
-## III. **Chosen Sustainable Development Goal (SDG)**
+## IV. **Chosen Sustainable Development Goal (SDG)**
 
 ### **Goal 4: Quality Education**
 
@@ -101,7 +98,7 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 ---
 
-## IV. **Integration of SDG into the Project**
+## V. **Integration of SDG into the Project**
 
 #### **📚 Promoting Accessibility to Educational Resources**
 - By offering a rental service for books, users can access a wide range of educational materials without the high cost of purchasing them. This ensures that knowledge is accessible to all, regardless of financial constraints.
@@ -117,11 +114,12 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 ---
 
-## V. **About the Developer**
+## VI. **About the Developer**
 
 ![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/09378f304b342a052cad61e3d88904c413e29771/images/Developer.jpg)
 
 Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress: Book Rental System**. As a beginner in Java programming, this project represents one of my first significant individual endeavors. Previously, I had only worked with programming languages like C++ and Python.  
-Creating **bookXpress** was a learning journey that allowed me to explore the fundamentals of object-oriented programming and develop a functional system. This project holds a special place in my heart as it serves as a stepping stone in my programming career and will always be a fond memory of my early days in software development.
+
+Creating **bookXpress** was a learning journey that allowed me to explore the fundamentals of object-oriented programming and develop a functional system. 
 
 ---
