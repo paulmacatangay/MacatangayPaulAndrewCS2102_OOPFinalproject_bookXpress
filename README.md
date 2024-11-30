@@ -12,7 +12,7 @@
   - [Abstraction](#-abstraction)
   - [Inheritance](#-inheritance)
 - **III. [Chosen Sustainable Development Goal (SDG)](#iii-chosen-sustainable-development-goal-sdg)**
-- **IV. [Integration of SDG into the Project](#integration-of-sdg-into-the-project)**
+- **IV. [Integration of SDG into the Project](#iv-integration-of-sdg-into-the-project)**
 - **V. [About the Developer](#v-about-the-developer)**
 
 ---
