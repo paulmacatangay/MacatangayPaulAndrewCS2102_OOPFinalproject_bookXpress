@@ -1,7 +1,9 @@
+
+
+![bookXpress Banner](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/8c547a74a46ae9bdc0f57baf448d8070b60e008f/images/bookXpress%20Banner.jpg)
 # 📚 **bookXpress - Book Rental System**
 
 ## I. **Project Overview**
-
 ### **Project Description**  
 The **Book Rental System** is an interactive software application designed to manage the rental of books. It provides functionality for both **admin users** and **regular users** to interact with a library of books.  
 Admin users can manage the book catalog by adding new books, updating book availability, and adjusting rental prices. Regular users can create accounts, log in, browse available books, rent them, and manage their inventory of rented books.
