@@ -93,7 +93,7 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 ### **Build Instructions**
 1. **Open the project folder**  
    - Download the `.zip` file of the project and extract it to your desired folder.
-   - Navigate to the project root where `src` is located.
+   - Navigate to the project root where `bookXpress` is located.
 
 2. **Compile the program**  
    Run the following command to compile the program:
