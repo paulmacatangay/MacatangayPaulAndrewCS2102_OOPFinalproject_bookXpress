@@ -136,7 +136,6 @@ project-root/
 │   └── mysql-connector-j-9.1.0.jar
 ├── bookXpressDatabase.sql
 └── README.md
-
 ```
 **Note**
 - Ensure your MySQL credentials in DBConnection.java are correct.
