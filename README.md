@@ -22,7 +22,8 @@ Admin users can manage the book catalog by adding new books, updating book avail
   - [Inheritance](#-inheritance)
 - **IV. [Chosen Sustainable Development Goal (SDG)](#iv-chosen-sustainable-development-goal-sdg)**
 - **V. [Integration of SDG into the Project](#v-integration-of-sdg-into-the-project)**
-- **VI. [About the Developer](#vi-about-the-developer)**
+- **VI. [How to Run the Program](#vi-how-to-run-the-program)**
+- **VII. [About the Developer](#vii-about-the-developer)**
 
 ---
 
@@ -49,43 +50,20 @@ Admin users can manage the book catalog by adding new books, updating book avail
 ## III. **Application of OOP Principles**
 
 ### **🔒 Encapsulation**
-
-**Definition:**  
-Encapsulation hides the internal state of objects and only exposes methods that allow controlled access to the data.
-
-**Example:**  
-- The **`Account`** class encapsulates user-specific details like `username`, `password`, `balance`, and `inventory` in private fields. Methods such as **`createAccount()`** and **`login()`** handle access to these fields.
-- Similarly, the **`Book`**, **`FictionBook`**, and **`NonFictionBook`** classes encapsulate book-related details like `cost`, `copiesAvailable`, `genre`, and `subject` with private fields and provide public methods for interaction.
-
----
+- **Definition:** Encapsulation hides the internal state of objects and only exposes methods that allow controlled access to the data.
+- **Example:** The `Account` class encapsulates user-specific details like username, password, balance, and inventory in private fields. Similarly, the `Book`, `FictionBook`, and `NonFictionBook` classes encapsulate book-related details.
 
 ### **🔄 Polymorphism**
-
-**Definition:**  
-Polymorphism allows objects of different types to be treated as objects of a common super type. It allows one method to be used for different types.
-
-**Example:**  
-- In the **`displayAvailableBooks()`** method, polymorphism is applied when the system dynamically checks the book type (either **`FictionBook`** or **`NonFictionBook`**) and prints additional details based on the type. The method works seamlessly for both types of books.
-
----
+- **Definition:** Polymorphism allows objects of different types to be treated as objects of a common super type.
+- **Example:** The `displayAvailableBooks()` method dynamically checks the book type (`FictionBook` or `NonFictionBook`) and prints additional details based on the type.
 
 ### **🔍 Abstraction**
-
-**Definition:**  
-Abstraction involves hiding the complex implementation details and exposing only the necessary parts of the object.
-
-**Example:**  
-- Methods like **`rentBook()`**, **`updateBookCopies()`**, and **`topUpBalance()`** abstract the complexity of performing actions like renting a book or updating book data, presenting a simple interface to the user. The user does not need to know the implementation details, only the actions they can perform.
-
----
+- **Definition:** Abstraction involves hiding complex implementation details and exposing only the necessary parts of the object.
+- **Example:** Methods like `rentBook()` and `topUpBalance()` abstract the complexity of performing these actions, presenting a simple interface to the user.
 
 ### **🌳 Inheritance**
-
-**Definition:**  
-Inheritance allows a class to inherit properties and methods from another class, promoting code reuse.
-
-**Example:**  
-- The **`FictionBook`** and **`NonFictionBook`** classes extend the **`Book`** class and inherit its properties such as `copiesAvailable` and `cost`. These subclasses also add specific properties like `genre` and `subject`, allowing for specialized behavior while maintaining common functionality from the **`Book`** class.
+- **Definition:** Inheritance allows a class to inherit properties and methods from another class, promoting code reuse.
+- **Example:** The `FictionBook` and `NonFictionBook` classes extend the `Book` class, inheriting its properties while adding their own specific behaviors.
 
 ---
 
@@ -100,15 +78,43 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 ## V. **Integration of SDG into the Project**
 
-#### **📚 Promoting Accessibility to Educational Resources**
-- By offering a rental service for books, users can access a wide range of educational materials without the high cost of purchasing them. This ensures that knowledge is accessible to all, regardless of financial constraints.
+- **📚 Promoting Accessibility to Educational Resources:** By offering a rental service for books, users can access a wide range of educational materials without the high cost of purchasing them.
+- **🌍 Digital Inclusivity:** The system provides a digital platform for renting books, enabling convenient access to resources for everyone.
+- **🚀 Future Growth:** The platform can be expanded to include digital books, aligning with SDG 4 by providing flexible learning options globally.
 
-#### **🌍 Digital Inclusivity**
-- The system provides an easy-to-use digital platform for renting books. Users can manage their accounts, track their rented books, and top-up their balances, making it a convenient option for people who might not have easy access to physical libraries.
+---
 
-#### **🚀 Future Growth**
-- The platform can be expanded in the future to offer digital books (eBooks), integrating technology for broader access to resources. This would align more closely with SDG 4 by providing more flexible learning options for people globally.
+## VI. **How to Run the Program**
 
+### **Prerequisites**
+- **Code Editor or IDE** (e.g., Visual Studio Code)
+- **Java Development Kit (JDK)**
+
+### **Build Instructions**
+1. **Open the project folder**  
+   - Download the `.zip` file of the project and extract it to your desired folder.
+   - Navigate to the project root where `bookXpress` is located.
+
+2. **Compile the program**  
+   Run the following command to compile the program:
+   ```bash
+   javac -d out -cp lib/mysql-connector-java-9.1.0.jar $(find src -name "*.java")
+
+3. **Run the program**
+   After successful compilation, execute the program using the command:
+   ```bash
+   java -cp out BookRentalSystem
+
+**📁 File Structure**
+```
+bookXpress/
+   ├── BookRentalSystem.java 
+   ├── Book.java 
+   ├── FictionBook.java 
+   ├── NonFictionBook.java 
+   ├── Account.java 
+   └── Admin.java
+```
 ---
 
 ## VI. **About the Developer**
@@ -120,3 +126,6 @@ Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress
 Creating **bookXpress** was a learning journey that allowed me to explore the fundamentals of object-oriented programming and develop a functional system. 
 
 ---
+
+
+
