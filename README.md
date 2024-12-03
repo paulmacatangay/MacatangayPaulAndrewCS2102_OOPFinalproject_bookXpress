@@ -89,6 +89,20 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 ### **Prerequisites**
 - **Code Editor or IDE** (e.g., Visual Studio Code)
 - **Java Development Kit (JDK)**
+- **MySQL Server (Ensure MySQL is installed and running)**
+
+### **SQL Setup Instructions**
+1. **Create the Databases**
+   - Open your MySQL client and execute the SQL commands from the `bookXpressDatabase.sql` file to create the required database and tables.
+   
+2. **Locate the SQL File**
+   - The file is located in the repository at: `bookXpressDatabase.sql`
+
+3. **Execute** the SQL Script Run the following command in your MySQL client:
+   ```bash
+    source path/to/bookXpressDatabase.sql;
+   ```
+   - Replace path/to/ with the actual path to the file on your system.
 
 ### **Build Instructions**
 1. **Open the project folder**  
@@ -103,18 +117,36 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 3. **Run the program**
    After successful compilation, execute the program using the command:
    ```bash
-   java -cp out BookRentalSystem
+   java -cp out:lib/mysql-connector-java-9.1.0.jar BookRentalSystem
 
 **📁 File Structure**
 ```
-bookXpress/
-   ├── BookRentalSystem.java 
-   ├── Book.java 
-   ├── FictionBook.java 
-   ├── NonFictionBook.java 
-   ├── Account.java 
-   └── Admin.java
+project-root/
+├── .vscode/
+│   └── settings.json
+├── bookXpress/
+│   ├── Account.java
+│   ├── Book.java
+│   ├── BookRentalSystem.java
+│   ├── DBConnection.java
+│   ├── FictionBook.java
+│   └── NonFictionBook.java
+├── lib/
+│   └── mysql-connector-j-9.1.0.jar
+├── bookXpressDatabase.sql
+└── README.md
+
 ```
+**Note**
+- Ensure your MySQL credentials in DBConnection.java are correct.
+- Example:
+```bash
+private static final String URL = "jdbc:mysql://localhost:3306/BookRentalSystem";
+private static final String USER = "root";  // Replace with your MySQL username
+private static final String PASSWORD = "your_password";  // Replace with your MySQL password
+```
+- **Start the MySQL server** before running the program.
+
 ---
 
 ## VII. **About the Developer**
