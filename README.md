@@ -31,14 +31,15 @@ Admin users can manage the book catalog by adding new books, updating book avail
 
 #### **🔧 Admin Functionality:**
 - Add, update, and remove books in the system.
-- Modify book availability and rental prices.
 - View the complete list of books and manage the catalog.
+- Can remove books.
 
 #### **👥 User Functionality:**
 - Create and manage user accounts with secure login.
 - Browse available books in the library.
 - Rent books and maintain an inventory of rented books.
 - Top-up account balance.
+- Return a book.
 
 #### **📖 Book Management:**
 - Books are categorized as **Fiction** and **Non-Fiction**, each having additional specific attributes such as genre or subject.
