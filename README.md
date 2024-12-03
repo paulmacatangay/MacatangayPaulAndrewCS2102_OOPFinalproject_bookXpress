@@ -117,7 +117,7 @@ bookXpress/
 ```
 ---
 
-## VI. **About the Developer**
+## VII. **About the Developer**
 
 ![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/da43411a75d6204bee889167be92e13a6a9c78f5/images/Developer.jpg)
 
