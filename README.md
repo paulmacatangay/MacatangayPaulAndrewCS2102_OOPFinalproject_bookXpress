@@ -1,6 +1,6 @@
 # 📚 **bookXpress - Book Rental System**
 
-![bookXpress Banner](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/60d598d329da3a9987cd378a5b62b4b12e922b0f/images/bookXpress%20Banner.jpg)
+![bookXpress Banner](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/6d4fa734b605296716ed0dae5483716499864723/images/bookXpress%20Banner.jpg)
 
 ---
 
@@ -151,7 +151,7 @@ private static final String PASSWORD = "your_password";  // Replace with your My
 
 ## VII. **About the Developer**
 
-![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/da43411a75d6204bee889167be92e13a6a9c78f5/images/Developer.jpg)
+![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/6d4fa734b605296716ed0dae5483716499864723/images/Developer.jpg)
 
 Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress: Book Rental System**. As a beginner in Java programming, this project represents one of my first significant individual endeavors. Previously, I had only worked with programming languages like C++ and Python.  
 
