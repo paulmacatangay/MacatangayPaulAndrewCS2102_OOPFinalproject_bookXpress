@@ -97,11 +97,11 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
    - Open your MySQL client and execute the SQL commands from the `bookXpressDatabase.sql` file to create the required database and tables.
    
 2. **Locate the SQL File**
-   - The file is located in the repository at: `bookXpressDatabase.sql`
+   - The file is located in the repository at: `init.sql`
 
 3. **Execute** the SQL Script Run the following command in your MySQL client:
    ```bash
-    source path/to/bookXpressDatabase.sql;
+    source path/to/init.sql;
    ```
    - Replace path/to/ with the actual path to the file on your system.
 
