@@ -153,7 +153,7 @@ private static final String PASSWORD = "your_password";  // Replace with your My
 
 ![Developer Photo](https://github.com/paulmacatangay/MacatangayPaulAndrewCS2102_OOPFinalproject_bookXpress/blob/6d4fa734b605296716ed0dae5483716499864723/images/Developer.jpg)
 
-Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress: Book Rental System**. As a beginner in Java programming, this project represents one of my first significant individual endeavors. Previously, I had only worked with programming languages like C++ and Python.  
+Hi! I'm **Paul Andrew C. Macatangay**, the developer and creator of **bookXpress: Book Rental System**. As a beginner in Java programming, this project represents one of my first significant individual project. Previously, I had only worked with programming languages like C++ and Python.  
 
 Creating **bookXpress** was a learning journey that allowed me to explore the fundamentals of object-oriented programming and develop a functional system. 
 
