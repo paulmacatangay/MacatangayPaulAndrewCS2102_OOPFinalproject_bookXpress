@@ -124,7 +124,6 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 ```
 project-root/
 ├── bookXpress/
-│   ├── src/
 │   │   ├── Account.java
 │   │   ├── Book.java
 │   │   ├── BookRentalSystem.java
