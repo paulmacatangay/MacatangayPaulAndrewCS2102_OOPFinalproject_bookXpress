@@ -131,7 +131,7 @@ project-root/
 │   │   ├── FictionBook.java
 │   │   └── NonFictionBook.java
 │   ├── db/
-│   │   ├── bookXpressDatabase.sql
+│   │   ├── init.sql
 │   │   └── schema.png
 │   ├── images/
 │   │   ├── bookXpress_Banner.jpg
