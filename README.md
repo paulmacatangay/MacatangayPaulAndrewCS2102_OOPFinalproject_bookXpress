@@ -126,7 +126,7 @@ project-root/
 ├── bookXpress/
 │   │   ├── Account.java
 │   │   ├── Book.java
-│   │   ├── BookRentalSystem.java
+│   │   ├── BookRentalSystem.java    ##Main
 │   │   ├── DBConnection.java
 │   │   ├── FictionBook.java
 │   │   └── NonFictionBook.java
